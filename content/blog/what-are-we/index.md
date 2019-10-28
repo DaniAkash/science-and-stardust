@@ -4,6 +4,10 @@ date: "2019-10-28T03:28:09.154Z"
 description: Understanding the toughest question ever known to man.
 ---
 
+## Before we start
+
+Have added a little intro about myself, you can [click here](#what-are-we) to directly skip to the blog post
+
 Not sure how exactly to put it but this morning I have decided to start writing my blog.
 
 For people who don't know me, I came up with the idea 💡 of Science & Stardust 🛰 blog almost three months ago! Since then, along with the idea, came, my writer's block 😩. I'm a programmer 👨‍💻 and I'm pretty good at it ✨. I have already written a [book](https://www.packtpub.com/web-development/javascript-example) before which is based on Javascript programming language, so I thought writing a science blog would be, you know, a "similar" experience of sorts... I even bragged on twitter how I'm gonna overcome my writer's block and just gonna start writing real soon!
@@ -15,7 +19,7 @@ And that was a month ago... But, only since I started writing, did I learnt, I k
 
 Fast forward to 15 years and here I am writing a science blog. How? well, my curiosity led me here. I started programming almost 7 years ago. I started building applications and solving complex problems. I decided to do a major in computer science and as I was moving forward in my journey, I found out the computers weren't exactly the most complex things I expected them to be. In fact, they weren't that complex at all. They were simply tools being used to solve the real, actual, complex problems that were happening around us every day! and it's called **Science** 🧬
 
-Some of you might already be thinking, "I'm not much of a science person, I'll never understand this blog post", but if you think science is boring, it's not science's fault, it is your teacher's fault. They probably taught you to help you score good marks and definitely not for the joy of learning or satisfying your curiosity. This blog, of course, is not for everyone. It is created for science enthusiasts by another science enthusiast, me, sharing my learnings. However, this post is for everyone. You might be an artist, a programmer, a writer or even a "veterinary acupuncturist", I don't know, I didn't even knew such a job existed until a few months ago. I wanted this to be something for everyone and the actual title of this post is:
+Some of you might already be thinking, "I'm not much of a science person, I'll never understand this blog post", but if you think science is boring, it's not science's fault, it is your teacher's fault. They probably taught you to help you score good marks and definitely not for the joy of learning or satisfying your curiosity. This blog, of course, is not for everyone. It is created for science enthusiasts by another science enthusiast, me, sharing my learnings. However, this post is for everyone. You might be an artist, a programmer, a writer or even a "veterinary acupuncturist", I don't know, I didn't even knew such a job existed until a few months ago. I wanted this to be something for everyone. Let's get into this...
 
 # What are we?
 
