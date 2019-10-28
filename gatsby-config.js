@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/science-and-stardust",
+  pathPrefix: "/",
   siteMetadata: {
     title: `Science and Stardust`,
     author: `DaniAkash`,
@@ -59,7 +59,10 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: "UA-68170977-2",
+        head: false,
+        anonymize: false,
+        respectDNT: false,
       },
     },
     `gatsby-plugin-feed`,
