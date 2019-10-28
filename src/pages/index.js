@@ -8,15 +8,6 @@ import { rhythm } from "../utils/typography"
 
 class BlogIndex extends React.Component {
 
-  /**
-   * Temporary redirection, should be removed
-   */
-  componentDidMount() {
-    if(window.location.href.includes("daniakash.github.io")) {
-      window.location.href = "https://science-and-stardust.xyz";
-    }
-  }
-
   render() {
     const { data } = this.props
     const siteTitle = data.site.siteMetadata.title
