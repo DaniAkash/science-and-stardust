@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Science and Stardust`,
     author: `DaniAkash`,
-    description: `Exploring Universe from the Earth point of view…`,
+    description: `Exploring the Universe from the Earth point of view…`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
       twitter: `dani_akash_`,
