@@ -23,6 +23,9 @@ Some of you might already be thinking, "I'm not much of a science person, I'll n
 
 # What are we?
 
+![what-are-we](greg-rakozy-oMpAz-DN-9I-unsplash.jpg)
+<sub>Photo by [Greg Rakozy](https://unsplash.com/@grakozy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/stars?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</sub>
+
 For many, they simply answer this question, by their profession. 
 
 ```
