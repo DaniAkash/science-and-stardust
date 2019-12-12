@@ -1,3 +1,11 @@
 .section-link {
     color: transparent !important;
 }
+.post-image-container {
+    width:100%;
+    position:relative;
+}
+.post-image {
+    width:100%;
+    margin-bottom:0;
+}
