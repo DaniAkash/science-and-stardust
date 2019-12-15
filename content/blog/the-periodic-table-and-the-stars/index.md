@@ -1,12 +1,12 @@
 ---
 title: The Periodic Table & The Stars
-date: "2019-12-12T03:28:09.154Z"
-description: Appreciating the creation of every element known to man
+date: "2019-12-15T14:46:53.055Z"
+description: Appreciating the creation of every element known to man.
 ---
 
 Humanity is progressing faster than ever before. We have smartwatches, VR goggles, electric vehicles and all the cool gadgets thanks to all the developments in science & research over the last decade. But how exactly did these things became possible?
 
-# A planet rich in resources
+## A planet rich in resources
 
 <div class="post-image-container"><img class="post-image" alt="cpu-motherboard" src="photo-1518770660439-4636190af475.jpg"/></div><p><small>Photo by Alexandre Debiève on <a target="_blank" href="https://unsplash.com/photos/FO7JIlwjOtU">Unsplash</a></small></p>
 
@@ -46,13 +46,13 @@ An element may have an arrangement of electrons where it's valence electrons are
 
 Just like how iron has an oxidation state, all the metals that belong to it's group has multiple oxidation states and they are commonly referred to as Transition Metals (Group 3 - 12). Some groups however, are very stable. For example, the Group 18 of the periodic table are all **noble gases**. The number of electrons in their atoms are well balanced that they don't need to gain or lose any extra electrons. Which makes them chemically stable and generally non-reactive to other elements
 
-These noble gases have various applications. For example, Argon (`Ar`) an inert gas is used to fill electric light bulbs as they are highly non reactive and doesn't react with the Tungsten filament used in these bulbs.
+These noble gases have various applications. For example, Argon (**Ar**) an inert gas is used to fill electric light bulbs as they are highly non reactive and doesn't react with the Tungsten filament used in these bulbs.
 
 <div class="post-image-container"><img class="post-image" alt="electric-bulb" src="lightbulb-1875255_1280.jpg"/></div><p><small>Image from <a target="_blank" href="https://pixabay.com/photos/lightbulb-bulb-light-idea-energy-1875255/">Pixabay</a></small></p>
 
 ## Semiconductors
 
-Another interesting group of elements we can find in the periodic table are the semiconductors, a special set of elements that can either conduct electricity or not conduct electricity depending on the availability of free electrons. There are [different types](https://en.wikipedia.org/wiki/List_of_semiconductor_materials) of semiconductors. But let's look at elemental semiconductors present in Group 14 (also knows as the carbon group). **Silicon** (`Si`) ﹣ a Group 14 elemental semiconductor is so widely used in modern computing, the famous ***Silicon Valley*** is named after it. 
+Another interesting group of elements we can find in the periodic table are the semiconductors, a special set of elements that can either conduct electricity or not conduct electricity depending on the availability of free electrons. There are [different types](https://en.wikipedia.org/wiki/List_of_semiconductor_materials) of semiconductors. But let's look at elemental semiconductors present in Group 14 (also knows as the carbon group). **Silicon** (**Si**) ﹣ a Group 14 elemental semiconductor is so widely used in modern computing, the famous ***Silicon Valley*** is named after it. 
 
 <div class="post-image-container"><img class="post-image" alt="silicon-valley" src="silicon-valley.jpg"/></div><p><small>Image from <a target="_blank" href="https://en.wikipedia.org/wiki/File:Silicon_Valley,_facing_southward_towards_Downtown_San_Jose,_2014.jpg">Wikipedia</a></small></p>
 
@@ -72,8 +72,87 @@ As we move forward in the periodic table, the atomic number keeps on increasing.
 
 ## Radioactivity
 
-At atomic weight 145 we find an element called **Promethium** (`Pm`). The protons in the nuclei of this element is too heavy that it's strong nuclear force could not hold them together. This element undergoes a phenomena known as **Radioactive decay** where it decays to elements of smaller atomic number by emitting energy in the form of radiation.
+At atomic weight 145 we find an element called **Promethium** (**Pm**). The protons in the nuclei of this element is too heavy that it's strong nuclear force could not hold them together. This element undergoes a phenomena known as **Radioactive decay** where it decays to elements of smaller atomic number by emitting energy in the form of radiation.
 
 <div class="post-image-container" style="width: 25%!important;"><img class="post-image" alt="radioactive-warning" src="512px-Radioactive.svg.png"/></div><p><small>Image from <a target="_blank" href="https://en.wikipedia.org/wiki/File:Radioactive.svg">Wikipedia</a></small></p>
 
-As we move forward, we find more and more elements that are very unstable due to large number of protons in their atomic nuclei and undergo radioactive decay with the emission of harmful radiations like **Uranium** (`U`), **Plutonium** (`Pu`) etc. However, as dangerous as they sound, they form the primary power source of nuclear fission reactors which capitalize on the energy released when these elements split into elements of smaller atomic number.
+As we move forward, we find more and more elements that are very unstable due to large number of protons in their atomic nuclei and undergo radioactive decay with the emission of harmful radiations ﹣ elements like **Uranium** (**U**). However, as dangerous as they sound, they form the primary power source of nuclear fission reactors, which capitalize on the energy released when these elements split into elements of smaller atomic numbers.
+
+## Heavier Elements
+
+As elements get heavier with increased atomic weight, they tend to become rare to find on our planet. And elements heavier than Uranium doesn't exist naturally at all. It is primarily due to two main factors.
+
+1. The elements decay too fast and weren't observable
+2. There weren't enough **natural events** that create these elements
+
+The first part can be easily understood. Since they are highly unstable, they simply decay. The second part, however, holds something much more important to learn. There is a natural event that has been creating all the elements we so far listed in the periodic table. It is essential that we learn about this event before we go into details about the heavier elements.
+
+<div class="post-image-container"><img class="post-image" alt="something-happening" src="something-happening.gif"/></div><p><small>via <a target="_blank" href="https://giphy.com/gifs/mrw-people-years-sVaSAHgNf63MQ">GIPHY</a></small></p>
+
+All the patterns, the precision in the atomic structure, have been put into these elements through a natural process that has been happening for almost billions of years! If you are wondering what the process actually is, here's a clue ﹣ **It starts with a bang!**
+
+## At the beginning of everything
+
+The most accurate theory we have about the beginning of the Universe is **[the Big Bang hypothesis](https://en.wikipedia.org/wiki/Big_Bang)**. It states that the universe was once a singularity at very high temperature & pressure which then exploded and stared to expanding indefinitely. As the expansion began, the universe also started cooling eventually, letting the initial fundamental particles to interact with each other. These led to the creation of protons, neutrons and electrons.
+
+<div class="post-image-container"><img class="post-image" alt="big-bang" src="big-bang.gif"/></div><p><small>via <a target="_blank" href="https://giphy.com/gifs/big-bang-theory-origin-bing-bG2RzkL7fKBkQ">Giphy</a></small></p>
+
+The positively charged protons attracted the electrons, which led to the formation of the first and the simplest element in the periodic table ﹣ Hydrogen (**H**). Hydrogen has only one proton and one electron. Given the amount of temperature and pressure, the conditions were also favorable for the formation of the first few elements in the table, such as Helium and Lithium. However, the rest of the elements in the periodic table haven't been produced yet.
+
+## Enter - Gravity!
+
+Once the universe started expanding, one of the most fundamental forces came into play. Gravity started attracting matter together. This included all the newly formed Hydrogen. Once matter started gathering, they attracted more matter and eventually they started pressing on each other so hard that they started to press multiple Hydrogen atoms over each other. This gave rise to a naturally occurring nuclear fusion in which Hydrogen atoms got fused into Helium with a release of huge amount of energy.
+
+<div class="post-image-container"><img class="post-image" alt="fusion-star" src="fusion-star.gif"/></div><p><small>via <a target="_blank" href="https://giphy.com/gifs/physics-DqYAxssIpc6Os">Giphy</a></small></p>
+
+This nuclear fusion was self sustaining as the massive amount of matter kept pushing at each other continuously due to gravity, leading to release of large amount of heat and light. They formed giant balls of burning gases which will later be known to the humanity as the [Primordial Stars](http://serious-science.org/primordial-stars-5225).
+
+During a star's life cycle, it fights the gravity which is trying to push all it's matter into a single point by fusing hydrogen (**H**) into helium (**He**) and pushing back with the energy released in the process. The process can continue for over billions of years in it's core until eventually all the Hydrogen atoms are completely exhausted. 
+
+<div class="post-image-container"><img class="post-image" alt="pushing" src="pushing.gif"/></div><p><small>via <a target="_blank" href="https://giphy.com/gifs/americasgottalent-angry-fight-agt-d3MKXkYDsGqFCSDm">Giphy</a></small></p>
+
+Once the Hydrogen is gone, the star will fuse Helium into heavier elements. The helium atom has 1 proton, 1 neutron and 2 electrons. The stars will push multiple helium atoms together, forcing the atomic nuclei to merge into a new element. This will create the elements that are further up the periodic table. Elements like Lithium, Beryllium, Boron etc. starts to form in the Star. This process will continue creating more elements from the periodic table as the fusion continues until it reaches Iron(**Fe**). Iron does not fuse inside a star into heavier elements in the periodic table and this leads to the death of the star.
+
+## Supernova
+
+When Iron is formed in the Star's core, it can no longer fight back against gravity. Smaller stars like our Sun eventually starts increasing in size when it runs out of Hydrogen and fusion of heavier nuclei starts turning into a red giant. But once Iron is formed, the Sun will burn out and will become a small white dwarf. 
+
+<div class="post-image-container"><img class="post-image" alt="red-giant-white-dwarf" src="red-giant-white-dwarf.gif"/></div><p><small>via <a target="_blank" href="https://giphy.com/gifs/animation-space-QP4taxvfVmVEI">Giphy</a></small></p>
+
+However, when a star **several times massive** as our Sun runs out of Hydrogen, an interesting phenomenon happens. The Star's gravity will be too strong and it will continue fusion till it reaches Iron. But the gravity continues to push the star inwards. Think of it as an Iron ball size of Earth being pushed into a sphere in the size of a small city. The entire star gets pulled into it's center at 1/4 times the speed of light and the elements will bounce off the Iron core producing a huge explosion of shockwaves, energy and light brighter than a whole galaxy.
+
+<div class="post-image-container"><img class="post-image" alt="supernova" src="supernova.gif"/></div><p><small>via <a target="_blank" href="https://giphy.com/gifs/space-star-astronomy-rn79UlSTDfDlS">Giphy</a></small></p>
+
+This big explosion is called a **Supernova** and this will scatter all the elements throughout space. The conditions during a supernova are so severe that it creates elements heavier than iron in the periodic table. Luckily all of them are scattered throughout the galaxy for millions of kilometers. After the supernova, very massive stars become black holes while some become another interesting type of star called a [Neutron Star](https://en.wikipedia.org/wiki/Neutron_star).
+
+<div class="post-image-container"><img class="post-image" alt="neutron-star" src="neutron-star.gif"/></div><p><small>via <a target="_blank" href="https://giphy.com/gifs/nasa-space-universe-l3dj5M4YLaFww31V6">Giphy</a></small></p>
+
+## Kilonova
+
+A neutron star is a type of star that is compressed so tightly that the protons & electrons in the atom join and become neutrons. These stars are very dense and have the strongest gravitational force in the Universe after the black holes. Their gravity is so strong that light bends around them making all of their sides visible. The core of such a star can destroy the commonly known atomic structure leaving us no clue but only wonder what might be present in them ﹣ a quark-gluon plasma or strange matter?! Nobody really knows.
+
+<div class="post-image-container"><img class="post-image" alt="nobody-knows" src="nobody-knows.gif"/></div><p><small>via <a target="_blank" href="https://giphy.com/gifs/vmas-mtv-video-music-awards-vmas-2016-26his0zEuPteuWKSA">Giphy</a></small></p>
+
+The neutron star that we are concerned with here is the one in a binary star system ﹣ two neutron stars spinning around each other attracted by gravity. Such a binary neutron star system eventually collapse with a massive explosion called **Kilonova** (which we recently [observed in 2017](https://en.wikipedia.org/wiki/Kilonova#Observations)). This explosion provides the necessary conditions for creation of super heavy elements in the periodic table such as Gold, Platinum, Uranium, Plutonium etc. This is why elements with higher atomic numbers get rarer to find as we move through the periodic table, not only do they need a star to die but they need the star to die twice.
+
+<div class="post-image-container"><img class="post-image" alt="kilonova" src="kilonova.gif"/></div><p><small>via <a target="_blank" href="https://giphy.com/gifs/mit-stars-collision-3ohc1f8hcZ7LBe2Zzy">Giphy</a></small></p>
+
+As for the two neutron stars that collided, they will inevitably become a black hole, consuming more matter as it grows. But now that we know the natural processes that have been creating the elements in the periodic table, we can actually start creating our own heavy elements!
+
+## Filling up the Period 7
+
+All the heavy elements in the Period 7 of the table are radioactive. They are very unstable hence they actively decay as soon as they have been created. The elements after Uranium are not naturally available but using a particle accelerator we were able to create heavier atoms.
+
+A [cyclotron](https://en.wikipedia.org/wiki/Cyclotron) is a particle accelerator that can accelerate particles on a spiral path and have them collide to produce the required heavy nuclei. But these elements decay in a matter of micro seconds after they are formed. Hence precise measurement is needed to confirm that these elements existed at that particular time. We finished up the whole [Period 7](https://en.wikipedia.org/wiki/Period_7_element) of the Table (up to element 118) by [2016](http://www.sci-news.com/othersciences/chemistry/periodic-tables-7th-period-iupac-iupap-03545.html).
+
+## Time for a new period
+
+Starting 2020, a new research will begin for the search of elements 119 & 120. This will be taking place in the newly inaugurated [SUPERHEAVY ELEMENT FACTORY](http://flerovlab.jinr.ru/flnr/DC280_inauguration.html). The scientists are hoping to find the "island of stability" in the newly created elements ﹣ An element which has longer half life and doesn't decay as fast as the other elements. This holds exciting possibilities for the future as more elements means more materials for us to build our tech on. Also no one knows if the newly synthesized elements stick to the established conventional properties of the periodic table or they are going to unlock something we missed so far! ﹣ This is exciting either way.
+
+<div class="post-image-container"><img class="post-image" alt="lets-find-out" src="lets-find-out.gif"/></div><p><small>via <a target="_blank" href="https://giphy.com/gifs/thebachelor-abc-bachelor-the-1xne5qPyBA5GGouLyo">Giphy</a></small></p>
+
+## Stars ﹣ Again!
+
+Thinking back, all the elements that we are using now, the ones in your mobile phones, laptops, food and even our own body have been through billions of years of manufacturing process. Thanks to the universe, we get to be spectators of the extraordinary stuff before us and experience something as awesome as life for free. 
+
+The goal of this blog post isn't to prove a scientific or a technical point, but to give a simple appreciation to the things we have now; to remind us how grateful we are to the stars and the universe. This sense of gratefulness will be the driving force, taking Humanity on the better path.
