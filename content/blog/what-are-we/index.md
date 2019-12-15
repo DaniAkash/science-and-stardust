@@ -12,7 +12,7 @@ Not sure how exactly to put it but this morning I have decided to start writing 
 
 For people who don't know me, I came up with the idea 💡 of Science & Stardust 🛰 blog almost three months ago! Since then, along with the idea, came, my writer's block 😩. I'm a programmer 👨‍💻 and I'm pretty good at it ✨. I have already written a [book](https://www.packtpub.com/web-development/javascript-example) before which is based on Javascript programming language, so I thought writing a science blog would be, you know, a "similar" experience of sorts... I even bragged on twitter how I'm gonna overcome my writer's block and just gonna start writing real soon!
 
-<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Will be fighting my writer&#39;s block and sharing the stuff I learn in my new publication &quot;Science &amp; Stardust&quot;. <br/><br/>Wish me luck also it will be empty for the first few months, so feel free to ignore...<a href="https://t.co/dJ7Ux7RbAq">https://t.co/dJ7Ux7RbAq</a></p>&mdash; Dani Akash (@dani_akash_) <a href="https://twitter.com/dani_akash_/status/1175809064074264576?ref_src=twsrc%5Etfw">22 September 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Will be fighting my writer&#39;s block and sharing the stuff I learn in my new publication &quot;Science &amp; Stardust&quot;. <br/><br/>Wish me luck also it will be empty for the first few months, so feel free to ignore...<a target="_blank" href="https://t.co/dJ7Ux7RbAq">https://t.co/dJ7Ux7RbAq</a></p>&mdash; Dani Akash (@dani_akash_) <a target="_blank" href="https://twitter.com/dani_akash_/status/1175809064074264576?ref_src=twsrc%5Etfw">22 September 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 And that was a month ago... But, only since I started writing, did I learnt, I knew nothing about science 😶. Yeah, quite literally! I'm a computer science student, I majored in computer science and engineering and I make a living by building user-facing applications. I got into programming because of my curiosity. When I was introduced to computers back in 2004, it was exciting. It could do all sorts of stuff! (yeah I was scribbling in MS Paint ✌️) and It triggered one of the most important parts of my brain - ["dentate gyrus"](https://en.wikipedia.org/wiki/Dentate_gyrus) which basically makes you curious. I wanted to know, to understand, how it was working...
@@ -23,8 +23,7 @@ Some of you might already be thinking, "I'm not much of a science person, I'll n
 
 # What are we?
 
-![what-are-we](greg-rakozy-oMpAz-DN-9I-unsplash.jpg)
-<sub>Photo by [Greg Rakozy](https://unsplash.com/@grakozy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/stars?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</sub>
+<div class="post-image-container"><img class="post-image" alt="what-are-we" src="greg-rakozy-oMpAz-DN-9I-unsplash.jpg"/></div><p><small>Photo by Greg Rakozy on <a target="_blank" href="https://unsplash.com/photos/oMpAz-DN-9I">Unsplash</a></small></p>
 
 For many, they simply answer this question, by their profession. 
 
@@ -37,7 +36,7 @@ What are you?
 
 Well, every profession is important. Yeah, it is! But did that really define who we are? cuz a doctor is also a father, a brother, a son and an uncle. An engineer is also a mother, a sister, a daughter and an aunt. So our profession doesn't exactly define us cuz we are much more than that. It simply tells what we do with most of our time. We do multiple roles in our lifetime. So how do we define us?
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/QaSZ7LVYvKwedLEPXv" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><small><a href="https://giphy.com/gifs/cartoonnetwork-cartoon-network-infinity-train-QaSZ7LVYvKwedLEPXv">via GIPHY</a></small></p>
+<div class="post-image-container"><img class="post-image" alt="what-am-i" src="what-am-i.gif"/></div><p><small><a target="_blank" href="https://giphy.com/gifs/cartoonnetwork-cartoon-network-infinity-train-QaSZ7LVYvKwedLEPXv">via GIPHY</a></small></p>
 
 ## Do our interests define us?
 
@@ -51,13 +50,13 @@ Given how a [single cell](https://en.wikipedia.org/wiki/Unicellular_organism) mi
 
 Initially, we thought the sky was for us. The sun was shining for us, the stars were twinkling for us and the whole world was working for us. But soon, after centuries of exploring the sky, we found out that those things were just there. They aren't made for us but they just happened to be there. Despite being such a miraculous creation, we are watching a story that is not about us. Every event in the Universe just happens. With or without us. This soon caused many people to fall into an [existential crisis](https://en.wikipedia.org/wiki/Existential_crisis). Many turned over to [nihilism](https://en.wikipedia.org/wiki/Nihilism). We found out whatever we do, we are just a group of simple species who will probably never even leave their own [local group](https://en.wikipedia.org/wiki/Local_Group). Not so special aren't we now? Hmm, Not exactly. This is where science comes into play.
 
-<div style="width:100%;height:0;padding-bottom:82%;position:relative;"><iframe src="https://giphy.com/embed/99v2c97dr5XEY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><small><a href="https://giphy.com/gifs/into-the-woods-stephen-sondheim-lol-i-find-myself-singing-this-like-all-time-99v2c97dr5XEY">via GIPHY</a></small></p>
+<div class="post-image-container"><img class="post-image" alt="what-am-i-doing-here" src="what-am-i-doing-here.gif"/></div><p><small><a target="_blank" href="https://giphy.com/gifs/into-the-woods-stephen-sondheim-lol-i-find-myself-singing-this-like-all-time-99v2c97dr5XEY">via GIPHY</a></small></p>
 
 ## How science changes the perspective
 
 We are given a role to play in a very short lifetime. By looking back at our creation, we can understand how important we are to this universe. Shortly after the beginning ([The Big Bang Theory](https://en.wikipedia.org/wiki/The_Big_Bang_Theory) we came up with), there were simple subatomic particles like protons, neutrons and electrons. One of each combined to create the simplest element called the Hydrogen. However, gravity kept pulling these particles together tightly which put so much pressure on Hydrogen atoms and they fused to produce Helium. Then Helium atoms fused to produce even heavier elements and the process continued with a release of a huge amount of heat and light which created the first-ever stars aka primordial stars of our Universe. Stars give life to the Universe. Because it is the stars that created all the elements we know now. The star's core will continue to fuse atoms together tightly using the gravitational force and once it runs out of elements to fuse, it will die in a huge explosion called the [supernova](https://en.wikipedia.org/wiki/Supernova). This supernova will scatter the stardust through millions of kilometres (light-years perhaps) in space.
 
-<div style="width:100%;height:0;padding-bottom:49%;position:relative;"><iframe src="https://giphy.com/embed/QRXC2cRzmKloc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><small><a href="https://giphy.com/gifs/footage-supernova-QRXC2cRzmKloc">via GIPHY</a></small></p>
+<div class="post-image-container"><img class="post-image" alt="super-nova" src="super-nova.gif"/></div><p><small><a target="_blank" href="https://giphy.com/gifs/footage-supernova-QRXC2cRzmKloc">via GIPHY</a></small></p>
 
 Many stars have spent so much energy and matter and have ended up as stardust throughout the Universe. Everything we look around us today was initially part of a star at some point. Biology says 99% of our body is made up of just 6 elements oxygen, carbon, hydrogen, nitrogen, calcium, and phosphorus which were also created by the same stardust. We are as important to the Universe as the stars that make up our universe. We are the Universe. We are a way for the Universe to know itself. We are the Universe's consciousness. 
 
