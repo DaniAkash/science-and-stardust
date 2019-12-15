@@ -153,6 +153,6 @@ Starting 2020, a new research will begin for the search of elements 119 & 120. T
 
 ## Stars ﹣ Again!
 
-Thinking back, all the elements that we are using now, the ones in your mobile phones, laptops, food and even our own body have been through billions of years of manufacturing process. Thanks to the universe, we get to be spectators of the extraordinary stuff before us and experience something as awesome as life for free. 
+Thinking back, all the elements that we are using now, the ones in your mobile phones, laptops, food and even our own body have been through billions of years of manufacturing process. Thanks to the universe, we get to be spectators of the extraordinary stuff happening before us and experience something as awesome as life for free. 
 
 The goal of this blog post isn't to prove a scientific or a technical point, but to give a simple appreciation to the things we have now; to remind us how grateful we are to the stars and the universe. This sense of gratefulness will be the driving force, taking Humanity on the better path.
