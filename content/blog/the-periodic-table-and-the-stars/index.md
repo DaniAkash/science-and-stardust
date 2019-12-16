@@ -38,15 +38,15 @@ The most interesting thing about the periodic table is that the elements belongi
 
 ## Valence Electrons & Chemical Bonding
 
-An element may have an arrangement of electrons where it's valence electrons are not stable and can either readily lose them or accept more electrons. When an element that can readily accept electrons come in contact with element that can easily lose electrons, they form a chemical bonding. 
+An element may have an arrangement of electrons where it's valence electrons are not stable and can either readily lose them or accept more electrons. When an element that can readily accept electrons comes in contact with element that can easily lose electrons, they form a chemical bonding. 
 
-***Ever wondered why iron easily rusts?*** Iron has an electron arrangement that it can readily accept 3 electrons while oxygen has an electron arrangement that it can lose 2 electrons. So by basic mathematics, 2 iron atoms can bond with 3 oxygen atoms and form iron oxide
+***Ever wondered why iron easily rusts?*** Iron has an electron arrangement that can readily accept 3 electrons while oxygen has an electron arrangement that it can lose 2 electrons. So by basic mathematics, 2 iron atoms can bond with 3 oxygen atoms and form iron oxide
 
 ## Group Properties
 
-Just like how iron has an oxidation state, all the metals that belong to it's group has multiple oxidation states and they are commonly referred to as Transition Metals (Group 3 - 12). Some groups however, are very stable. For example, the Group 18 of the periodic table are all **noble gases**. The number of electrons in their atoms are well balanced that they don't need to gain or lose any extra electrons. Which makes them chemically stable and generally non-reactive to other elements
+Just like how iron has an oxidation state, all the metals that belong to its group has multiple oxidation states and they are commonly referred to as Transition Metals (Group 3 - 12). Some groups however, are very stable. For example, the Group 18 of the periodic table are all **noble gases**. The number of electrons in their atoms are well balanced that they don't need to gain or lose any extra electrons. Which makes them chemically stable and generally non-reactive to other elements
 
-These noble gases have various applications. For example, Argon (**Ar**) an inert gas is used to fill electric light bulbs as they are highly non reactive and doesn't react with the Tungsten filament used in these bulbs.
+These noble gases have various applications. For example, Argon (**Ar**), an inert gas is used to fill electric light bulbs as they are highly non-reactive and don't react with the Tungsten filament used in these bulbs.
 
 <div class="post-image-container"><img class="post-image" alt="electric-bulb" src="lightbulb-1875255_1280.jpg"/></div><p><small>Image from <a target="_blank" href="https://pixabay.com/photos/lightbulb-bulb-light-idea-energy-1875255/">Pixabay</a></small></p>
 
